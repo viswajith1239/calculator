@@ -15,4 +15,3 @@ function calculate(){
         display.value="Error"
     }
 }
-<h1>hello</h1>
